@@ -24,6 +24,8 @@ Below are the submiages for the same sample
 
 ## Results
 
+The evaluation metric used in this project is accuracy. This choice is based on the fact that the data is fairly balanced, making accuracy an intuitive and self-explanatory metric for assessing performance.
+
 Following are the loss and accuracy curves of the model
 
 ![Loss and Accuracy Curves](Sample_Images/Loss_Acc_Curves.png)
