@@ -24,10 +24,18 @@ Below are the submiages for the same sample
 
 ## Results
 
+### Evaluation Metric
+
 The evaluation metric used in this project is accuracy. This choice is based on the fact that the data is fairly balanced, making accuracy an intuitive and self-explanatory metric for assessing performance.
+
+### Curves
 
 Following are the loss and accuracy curves of the model
 
 ![Loss and Accuracy Curves](Sample_Images/Loss_Acc_Curves.png)
 
 The loss and accuracy here refers to the loss and accuracy of the subimages. The "Full Image Test Accuracy" curve is the accuracy curve for the full image.
+
+## Weights
+
+The model_0.pth file containes the weights associated the model. To use these weights and perform prediction on any image, the user can run the part below `8.2 Loading the model`
