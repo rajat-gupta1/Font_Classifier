@@ -38,4 +38,4 @@ The loss and accuracy here refers to the loss and accuracy of the subimages. The
 
 ## Weights
 
-The model_0.pth file containes the weights associated the model. To use these weights and perform prediction on any image, the user can run the part below `8.2 Loading the model`
+The model_0.pth file containes the weights associated the model. To use these weights and perform prediction on any image, the user can run the part below `8.2 Loading the model` in the `Font_Classifier.ipynb` file
