@@ -2,9 +2,14 @@
 
 This repository contains the code for classifying fonts into their respective categories. The training dataset includes 10 different types of fonts, and the model achieves over 90% accuracy on the test set.
 
-## Assumptions
+## Model Development and Assumptions
 
+CNNs with two convolution blocks have been used to train the model.  
 It is assumed that the provided dataset contains sentences in a single line.
+
+## Code
+
+To run the code, run the Font_Classifier.ipynb file from top. All the supporting files used have been uploaded to this repository.
 
 ## Methodology
 
