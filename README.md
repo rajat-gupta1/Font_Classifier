@@ -27,3 +27,5 @@ Below are the submiages for the same sample
 Following are the loss and accuracy curves of the model
 
 ![Loss and Accuracy Curves](Sample_Images/Loss_Acc_Curves.png)
+
+The loss and accuracy here refers to the loss and accuracy of the subimages. The "Full Image Test Accuracy" curve is the accuracy curve for the full image.
